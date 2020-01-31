@@ -7,6 +7,9 @@ This repository consists of my HCI design project from the preliminary design, t
 
 # Team members
 Rajesh Sakhamuru - rajes95
+
 Zach Rooney
+
 Neenu Jacob
+
 Deesha Shah
