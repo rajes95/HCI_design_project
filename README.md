@@ -1,4 +1,4 @@
-# cs5340_human_computer_interaction
+# CS 5340 Human Computer Interaction
 This course covered the principles of human-computer interaction and the design and evaluation of user interfaces.
 
 # Human Computer Interaction Design Project
